@@ -57,27 +57,17 @@ liberty-foundation-repair/
 
 
 ---
-
-## 📦 How to Run
-
-```bash
-git clone https://github.com/TalhaIqbal3322/liberty-foundation-repair-platform.git
-cd liberty-foundation-repair-platform
-Import the db.sql into your MySQL database.
-
-Configure your DB credentials in db.php.
-
-Start a local PHP server:
----
-
 📩 Contact
+---
 For collaboration or inquiries, please connect via GitHub or email.
 
 Developer: Talha Iqbal
-📧 Email: talhaiqbal.digitalnexus@gmail.com
-🌐 GitHub: https://github.com/TalhaIqbal3322
+
+Email: talhaiqbal.digitalnexus@gmail.com
 
 ---
 📄 License
-This project is developed for Liberty Foundation Repairs.
-All rights reserved. Redistribution or reuse is not permitted without written consent.
+---
+This project is owned and developed for demonstration purposes for Client Liberty Foundations Repair. All rights reserved.
+
+---
